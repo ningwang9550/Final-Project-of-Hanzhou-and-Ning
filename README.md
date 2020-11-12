@@ -1,3 +1,3 @@
 # Final-Project-of-Hanzhou-and-Ning
 
-1, Load data.
+This is a data science project about the prison dataset.
